@@ -33,14 +33,14 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/InnerPulse">
+<a href="https://github.com/iskrenivanov87">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=InnerPulse&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=InnerPulse&layout=compact&langs_count=8&hide=java,r&theme=react "/>
 </a>
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/innerpulse">
+  <a href="https://www.linkedin.com/in/iskrenivanov87">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:stoev95pd">
@@ -52,7 +52,7 @@
 <br>
 <br>
 
-### 🤝🏻 &nbsp;Contact me at stoev95pd@gmail.com. I'll respond as soon as I can.
+### 🤝🏻 &nbsp;Contact me at iskren.ivanov@hotmail.com. I'll respond as soon as I can.
 
 <br>
 <br>
